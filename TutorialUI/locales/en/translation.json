@@ -12,15 +12,15 @@
         "e10": "10. Now JoyCon should be operational\nIf it disconnects at any point repeat these steps."
     },
     "images": {
-        "image_4": "/locales/en/image_4.jpg",
-        "image_5": "/locales/en/image_5.jpg",
-        "image_6": "/locales/en/image_6.jpg",
-        "image_7": "/locales/en/image_7.jpg",
-        "image_8": "/locales/en/image_8.jpg",
-        "image_9": "/locales/en/image_9.jpg",
-        "image_10": "/locales/en/image_10.jpg",
-        "image_12": "/locales/en/image_12.jpg",
-        "image_13": "/locales/en/image_13.jpg",
-        "image_14": "/locales/en/image_14.jpg"
+        "image_4": "locales/en/image_4.jpg",
+        "image_5": "locales/en/image_5.jpg",
+        "image_6": "locales/en/image_6.jpg",
+        "image_7": "locales/en/image_7.jpg",
+        "image_8": "locales/en/image_8.jpg",
+        "image_9": "locales/en/image_9.jpg",
+        "image_10": "locales/en/image_10.jpg",
+        "image_12": "locales/en/image_12.jpg",
+        "image_13": "locales/en/image_13.jpg",
+        "image_14": "locales/en/image_14.jpg"
     }
 }

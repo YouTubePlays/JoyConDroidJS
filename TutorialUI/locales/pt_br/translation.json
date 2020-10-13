@@ -12,13 +12,13 @@
         "e10": "10. Agora o JoyCon estará funcionando.\nSe ocorrer alguma desconexão, repita este processo."          
     },
     "images": {
-        "image_4": "/locales/pt_br/image_4.jpg",
-        "image_5": "/locales/pt_br/image_5.jpg",
-        "image_6": "/locales/pt_br/image_6.jpg",
-        "image_8": "/locales/pt_br/image_8.jpg",
-        "image_9": "/locales/pt_br/image_9.jpg",
-        "image_10": "/locales/pt_br/image_10.jpg",
-        "image_13": "/locales/pt_br/image_13.jpg",
-        "image_14": "/locales/pt_br/image_14.jpg"
+        "image_4": "locales/pt_br/image_4.jpg",
+        "image_5": "locales/pt_br/image_5.jpg",
+        "image_6": "locales/pt_br/image_6.jpg",
+        "image_8": "locales/pt_br/image_8.jpg",
+        "image_9": "locales/pt_br/image_9.jpg",
+        "image_10": "locales/pt_br/image_10.jpg",
+        "image_13": "locales/pt_br/image_13.jpg",
+        "image_14": "locales/pt_br/image_14.jpg"
     }
 }
