@@ -1,0 +1,14 @@
+{
+    "explanations": {
+        "e1": "1. Vai nel menu dei controller sulla Switch.",
+        "e2": "2. Clicca su \"Cambia impugnatura/Ordine\".",
+        "e3": "3. Lascia la Switch in modalità di accoppiamento.",
+        "e4": "4. Vai nel menu JoyCon di questa app e premi il Sync Button.",
+        "e5": "5. Consenti al tuo telefono di essere trovato da altri dispositivi.",
+        "e6": "6. Aspetta che la Switch inizi la connessione\n Sii paziente ma potresti dover provare un paio di volte.",
+        "e7": "7. Quando la Switch chiede l'accoppiamento\n aspetta fino a che non viene mostrata l'icona JoyCon come sotto.",
+        "e8": "8. Premi SL e SR un paio di volte.",
+        "e9": "9. Quando l'icona diventa grigio pieno\n premi il bottone giù ed esci dalla ricerca.",
+        "e10": "10. Adesso il JoyCon dovrebbe essere operativo\n Se si disconnette ripeti questi step."
+    }
+}

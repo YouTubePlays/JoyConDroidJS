@@ -1,0 +1,14 @@
+{
+    "explanations": {
+        "e1": "1. Öffne im Home-Menü der Switch das Controller-Menü.",
+        "e2": "2. Wähle \"Griffweise/Reihenfolge ändern\".",
+        "e3": "3. Lass deine Switch im Sync-Modus.",
+        "e4": "4. Öffne in dieser App das Joy-Con-Menü und drücke den Sync-Knopf.",
+        "e5": "5. Bestätige, dein Gerät für andere sichtbar zu machen.",
+        "e6": "6. Warte, bis deine Switch sich verbindet.\n Es könnte sein, dass du die Schritte einige Male wiederholen musst, bis alles klappt.",
+        "e7": "7. Sobald die Switch eine Verbindungsanfrage sendet,\n warte bis das Joy-Con-Symbol so aussieht wie hier.",
+        "e8": "8. Drücke SL und SR ein paar Mal.",
+        "e9": "9. Sobald das Joy-Con-Symbol grau wird,\n drücke den Knopf um das Menü zu schließen.",
+        "e10": "10. Der Joy-Con sollte jetzt funktionieren!\n Sollte die Verbindung abbrechen, dann wiederhole die Schritte."
+    }
+}

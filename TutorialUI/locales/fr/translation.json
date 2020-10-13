@@ -1,0 +1,14 @@
+{
+    "explanations": {
+        "e1": "1. Rendez vous sur le menu des manettes sur la Switch.",
+        "e2": "2. Touchez \"Changer le style/ordre\" dans le menu.",
+        "e3": "3. Laissez la Switch sur le mode synchronisation.",
+        "e4": "4. Depuis cette application, allez sur le menu Joy-Con et appuyez sur le bouton synchronisation.",
+        "e5": "5. Autorisez votre téléphone à être détecté par d'autres appareils.",
+        "e6": "6. Attendez que la Switch débute la connection \n Soyez patients. En cas d'échec, il sera peut-être nécessaire de recommencer ces étapes.",
+        "e7": "7. Une fois que la Switch demande une autorisation de synchronisation,\n attendez que le Joy-Con s'affiche comme sur l'image ci-dessous.",
+        "e8": "8. Appuyez simultanément sur les boutons SL et SR plusieurs fois.",
+        "e9": "9. Une fois que le Joy-Con devient complètement gris,\n appuyez sur le bouton bas et sortez du menu de synchronisation.",
+        "e10": "10. Maintenant, le Joy-Con devrait être complètement opérationnel.\n S'il se déconnecte, recommencez ces étapes."
+    }
+}

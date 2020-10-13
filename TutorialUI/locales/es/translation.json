@@ -1,0 +1,14 @@
+{
+    "explanations": {
+        "e1": "1. Dirijase al menu \"Controles\" en su Switch.",
+        "e2": "2. Seleccione la opcion \"Change Grip/Order\" en el menu.",
+        "e3": "3. Deje la consola en modo emparejamiento",
+        "e4": "4. Entre al menu del control deseado y presione el boton \"Sincronizar\".",
+        "e5": "5. Permita a su dispositivo ser visible para otros dispositivos.",
+        "e6": "6. Espere que la consola Switch establezca la conexion \n Sea paciente, puede nececitar un par de intentos.",
+        "e7": "7. Una vez la Switch pida conectarse, \n espere hasta que el control se muestre como en la imagen.",
+        "e8": "8. Presione los botones SL y SR un par de veces.",
+        "e9": "9. Cuando los joycons se muestren opacos,\n presione el boton abajo y salga del menu de emparejamiento.",
+        "e10": "10. Ahora los controles deberian estar conectados.\n Si se desconectan, repetir los pasos anteriores."
+    }
+}

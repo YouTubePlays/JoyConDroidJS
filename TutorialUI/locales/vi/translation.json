@@ -1,0 +1,14 @@
+{
+    "explanations": {
+        "e1": "1. Vào menu Controllers trên Switch.",
+        "e2": "2. Chọn \"Change Grip/Order\".",
+        "e3": "3. Để Switch ở chế độ ghép nối.",
+        "e4": "4. Vào menu JoyCon trên ứng dụng này và bấm nút Sync.",
+        "e5": "5. Đồng ý cho thiết bị được tìm thấy bởi các thiết bị khác.",
+        "e6": "6. Đợi Switch thiết lập kết nối\n Hãy kiên nhẫn, bạn có thể phải thực hiện bước này một vài lần.",
+        "e7": "7. Khi Switch hỏi ghép nối\n đợi đến khi icon JoyCon hiển thị như sau.",
+        "e8": "8. Bấm nút SL và SR một vài lần.",
+        "e9": "9. Khi icon JoyCon chuyển sang màu xám\n Bấm nút Down và thoát tìm kiếm thiết bị",
+        "e10": "10. Bây giờ JoyCon sẽ hoạt động\n Nếu bị ngắt kết nối, thực hiện lại các bước trên."
+    }
+}
