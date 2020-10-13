@@ -1,0 +1,26 @@
+{
+    "explanations": {
+        "e1": "1. Go to controllers menu on Switch.",
+        "e2": "2. Click \"Change Grip/Order\" Menu Item.",
+        "e3": "3. Leave Switch on pairing mode.",
+        "e4": "4. Go to JoyCon menu on this App and Press Sync Button.",
+        "e5": "5. Allow your phone to be discovered by other devices.",
+        "e6": "6. Wait for Switch to initiate connection\nBe patient but you might need to try this couple of times.",
+        "e7": "7. Once Switch asked for pairing\nwait till JoyCon icon is displayed as below.",
+        "e8": "8. Press SL and SR buttons couple of times.",
+        "e9": "9. Once JoyCon icon turns solid gray\npress down button and exit discovery",
+        "e10": "10. Now JoyCon should be operational\nIf it disconnects at any point repeat these steps."
+    },
+    "images": {
+        "image_4": "/locales/en/image_4.jpg",
+        "image_5": "/locales/en/image_5.jpg",
+        "image_6": "/locales/en/image_6.jpg",
+        "image_7": "/locales/en/image_7.jpg",
+        "image_8": "/locales/en/image_8.jpg",
+        "image_9": "/locales/en/image_9.jpg",
+        "image_10": "/locales/en/image_10.jpg",
+        "image_12": "/locales/en/image_12.jpg",
+        "image_13": "/locales/en/image_13.jpg",
+        "image_14": "/locales/en/image_14.jpg"
+    }
+}

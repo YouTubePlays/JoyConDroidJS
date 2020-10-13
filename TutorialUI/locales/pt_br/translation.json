@@ -1,0 +1,24 @@
+{
+    "explanations": {
+        "e1": "1. Vá ao menu de comandos no Switch.",
+        "e2": "2. Selecione a opção \"Mudar a ordem ou o modo de utilização\".",
+        "e3": "3. Mantenha o Switch no modo de pareamento.",
+        "e4": "4. Selecione um JoyCon no aplicativo e pressione o botão de Sincronização.",
+        "e5": "5. Permita que o seu dispositivo seja descoberto por outros dispositivos.",
+        "e6": "6. Espere o Switch iniciar a conexão.\nEspere alguns segundos, talvez você tenha que tentar mais algumas vezes.",
+        "e7": "7. Quando o Switch solicitar o pareamento, aceite.\nAguarde até que o ícone do Joycon seja exibido, como abaixo.",
+        "e8": "8. Pressione os botões SL e SR algumas vezes.",
+        "e9": "9. Quando o ícone do Joycon ficar cinza sólido,\npressione o botão de baixo e saia do pareamento.",
+        "e10": "10. Agora o JoyCon estará funcionando.\nSe ocorrer alguma desconexão, repita este processo."          
+    },
+    "images": {
+        "image_4": "/locales/pt_br/image_4.jpg",
+        "image_5": "/locales/pt_br/image_5.jpg",
+        "image_6": "/locales/pt_br/image_6.jpg",
+        "image_8": "/locales/pt_br/image_8.jpg",
+        "image_9": "/locales/pt_br/image_9.jpg",
+        "image_10": "/locales/pt_br/image_10.jpg",
+        "image_13": "/locales/pt_br/image_13.jpg",
+        "image_14": "/locales/pt_br/image_14.jpg"
+    }
+}
