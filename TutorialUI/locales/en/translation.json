@@ -22,5 +22,21 @@
         "image_12": "locales/en/image_12.jpg",
         "image_13": "locales/en/image_13.jpg",
         "image_14": "locales/en/image_14.jpg"
-    }
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "App Info",
+        "ai1": "JoyCon Droid emulates Right Joy-Con, Left Joy-Con and Pro Controller.",
+        "ai2": "Please check the User Guide for more information.",
+        "ai3": "This application is in alpha stage and does not work with some phones.",
+        "ai4": "Note: This application is not compatible with some of the below Android devices:",
+        "ai5": "This application is not associated with Nintendo in any way.",
+        "disclaimerTitle": "Disclaimer",
+        "d1": "JoyCon Droid in no way provides any warranty, express or implied, toward the use of the application and possible consequences to you or your property. It is user's responsibility to assess the risks of using this application or similar application.",
+        "d2": "The JoyCon Droid Developer is in no way or shape liable for any use of this application."
+    },
+    "sony": "Sony",
+    "xiaomi": "Xiaomi",
+    "lg": "LG",
+    "oneplus": "OnePlus",
+    "huawei": "Huawei"
 }

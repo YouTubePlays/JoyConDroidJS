@@ -10,5 +10,16 @@
         "e8": "8. Bấm nút SL và SR một vài lần.",
         "e9": "9. Khi icon JoyCon chuyển sang màu xám\n Bấm nút Down và thoát tìm kiếm thiết bị",
         "e10": "10. Bây giờ JoyCon sẽ hoạt động\n Nếu bị ngắt kết nối, thực hiện lại các bước trên."
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "Thông tin ứng dụng",
+        "ai1": "JoyCon Droid giả lập Joy-Con phải, Joy-Con trái và Pro Controller.",
+        "ai2": "Hãy kiểm tra Hướng dẫn sử dụng để biết thêm thông tin.",
+        "ai3": "Ứng dụng này đang trong giai đoạn Alpha và không hoạt động với một số thiết bị.",
+        "ai4": "Note: Ứng dụng này không tương thích với một số thiết bị Android như sau:",
+        "ai5": "Ứng dụng này không liên kết với Nintendo dưới bất kì hình thức nào.",
+        "disclaimer": "Disclaimer",
+        "d1": "JoyCon Droid không chịu trách nhiệm cho các vấn đề cũng như các hậu quả có thể  xảy ra với bạn và tài sản của bạn khi bạn sử dụng ứng dụng. Đây là trách nhiệm của người dùng khi quyết định chấp nhận rủi ro và sử dụng ứng dụng này, cũng như các ứng dụng tương tự.",
+        "d2": "Nhà phát triển của JoyCon Droid không có bất kỳ trách nhiệm pháp lý nào khi người dùng sử dụng ứng dụng này."
     }
 }

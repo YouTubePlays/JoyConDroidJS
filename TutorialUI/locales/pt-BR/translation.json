@@ -20,5 +20,16 @@
         "image_10": "locales/pt-BR/image_10.jpg",
         "image_13": "locales/pt-BR/image_13.jpg",
         "image_14": "locales/pt-BR/image_14.jpg"
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "Informações do Aplicativo",
+        "ai1": "JoyCon Droid emula os Joy-Cons direito e esquerdo, e também o Pro Controller.",
+        "ai2": "Por favor cheque o guia do usuário para mais informações.",
+        "ai3": "Este aplicativo está em estágio alpha, pode não funcionar em alguns dispositivos.",
+        "ai4": "Note: Este aplicativo não é compatível com alguns dos dispositivos Androids abaixo:",
+        "ai5": "Este aplicativo não está associado a Switch de qualquer maneira.",
+        "disclaimer": "Aviso Legal",
+        "d1": "JoyCon Droid não fornece de nenhuma maneira qualquer garantia, expressa ou implícita, para o uso da aplicação e possíveis consequências para você ou sua propriedade. É responsabilidade do usuário avaliar os riscos de usar esta aplicação e aplicações similares.",
+        "d2": "O desenvolvedor do JoyCon Droid não é de forma alguma responsável por qualquer uso deste aplicativo.\n Translation By JeffS2Duda"
     }
 }

@@ -10,5 +10,16 @@
         "e8": "8. Drücke SL und SR ein paar Mal.",
         "e9": "9. Sobald das Joy-Con-Symbol grau wird,\n drücke den Knopf um das Menü zu schließen.",
         "e10": "10. Der Joy-Con sollte jetzt funktionieren!\n Sollte die Verbindung abbrechen, dann wiederhole die Schritte."
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "App-Info",
+        "ai1": "JoyCon Droid emuliert Joy-Con (L), Joy-Con (R) und den Pro Controller.",
+        "ai2": "Überprüfe für mehr Informationen bitte die Anleitung.",
+        "ai3": "Die App ist noch in der Alpha-Phase and funktioniert auf manchen Geräten nicht.",
+        "ai4": "Hinweis: Diese App ist mit einigen der folgenden Android-Geräte nicht kompatibel: ",
+        "ai5": "Diese App steht in keinerlei Zusammenhang mit Nintendo.",
+        "disclaimer": "Wichtiger Hinweis",
+        "d1": "JoyCon Droid übernimmt keine Garantie oder Verantwortung für die Nutzung der App und mögliche Konsequenzen für dich oder dein Eigentum. Es liegt in der Verantwortung des Nutzers, die Risiken dieser oder ähnlicher Applikationen einzuschätzen.",
+        "d2": "Der Entwickler von JoyCon Droid ist für keine Art der Verwendung dieses Programms verantwortlich."
     }
 }

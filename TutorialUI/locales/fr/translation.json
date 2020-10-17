@@ -10,5 +10,16 @@
         "e8": "8. Appuyez simultanément sur les boutons SL et SR plusieurs fois.",
         "e9": "9. Une fois que le Joy-Con devient complètement gris,\n appuyez sur le bouton bas et sortez du menu de synchronisation.",
         "e10": "10. Maintenant, le Joy-Con devrait être complètement opérationnel.\n S'il se déconnecte, recommencez ces étapes."
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "Informations de l'application",
+        "ai1": "JoyCon Droid émule le Joy-Con droit, le Joy-Con gauche et la manette Pro.",
+        "ai2": "Lisez le guide d'utilisation pour plus d'informations.",
+        "ai3": "Cette application étant en Alpha, il est possible qu'elle ne fonctionne pas avec certains téléphones.",
+        "ai4": "Note: Cette application n'est pas compatible avec certains de ces appareils Android:",
+        "ai5": "Cette application n'est en aucun cas liée à Nintendo.",
+        "disclaimer": "Avertissement",
+        "d1": "JoyCon Droid ne fournit en aucun cas une garantie, de manière implicite ou explicite, envers l'utilisation de cette application et ses possibles conséquences sur l'utilisateur ou sa propriété. Il est de la responsabilité de l'utilisateur de prendre conscience des risques encourus en utilisant cette application ou une application similaire.",
+        "d2": "Le développeur de JoyCon Droid ne peut en aucun cas être tenu responsable pour quelconque utilisation de cette application."
     }
 }

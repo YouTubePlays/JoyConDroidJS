@@ -10,5 +10,16 @@
         "e8": "8. Presione los botones SL y SR un par de veces.",
         "e9": "9. Cuando los joycons se muestren opacos,\n presione el boton abajo y salga del menu de emparejamiento.",
         "e10": "10. Ahora los controles deberian estar conectados.\n Si se desconectan, repetir los pasos anteriores."
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "Acerca de la aplicacion.",
+        "ai1": "JoyCon Droid emula los joycons izquierdos, derechos y el Pro Controller.",
+        "ai2": "Por favor, revise la guia del usuario para mas informacion.",
+        "ai3": "Esta aplicacion esta en alpha y puede no funcionar en algunos telefonos.",
+        "ai4": "Note: La aplicacion no es compatible con los siguientes marcas de telefonos: ",
+        "ai5": "Esta aplicacion no esta asociada de ninguna forma con Nintendo.",
+        "disclaimer": "Disclaimer",
+        "d1": "JoyCon Droid no provee ninguna garantia explicita o implicita por el uso de esta aplicacion y las posibles consecuencias sobre usted o su propiedad. Es su responsabilidad aceptar las posibles consecuencias del uso de esta aplicacion o de similares.",
+        "d2": "Los desarrolladores de JoyCon Droid no se haran responsables de cualquier uso de esta aplicacion."
     }
 }

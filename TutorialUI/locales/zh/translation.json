@@ -10,5 +10,21 @@
         "e8": "8. 请尝试按SL和SR,可能要按多次",
         "e9": "9. 一旦JoCon图标变灰\n 按下键,并且退出发现模式",
         "e10": "10. 现在Joycon应该可以使用了\n 如果断开连接,请重试以上步骤."
-    }
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "App信息",
+        "ai1": "JoyCon Droid可以用来模拟右Joy-Con, 左Joy-Con 和 Pro Controller.",
+        "ai2": "请查看用户指南以获取更多信息",
+        "ai3": "本APP还处于早期测试阶段,可能不支持部分手机.",
+        "ai4": "注意: 本APP不兼容以下品牌的手机:",
+        "ai5": "本App与Nintendo没有任何关系.",
+        "disclaimer": "声明",
+        "d1": "JoyCon Droid不对任何使用者或者使用者的财产提供任何保证,请用户自行承担相关风险.",
+        "d2": "JoyCon Droid的开发者对任何使用者不承担任何责任."
+    },
+    "sony": "Sony",
+    "xiaomi": "小米",
+    "lg": "LG",
+    "oneplus": "一加",
+    "huawei": "华为"
 }

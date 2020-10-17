@@ -10,5 +10,16 @@
         "e8": "8. Premi SL e SR un paio di volte.",
         "e9": "9. Quando l'icona diventa grigio pieno\n premi il bottone giù ed esci dalla ricerca.",
         "e10": "10. Adesso il JoyCon dovrebbe essere operativo\n Se si disconnette ripeti questi step."
+    },
+    "legalAndDisclaimer" : {
+        "appInfoTitle": "App Info",
+        "ai1": "JoyCon Droid emula Joy-Con Destro, Joy-Con Sinistro e Pro Controller.",
+        "ai2": "Per favore controlla la Guida Utente per maggiori informazioni.",
+        "ai3": "Questa applicazione è ancora in alpha stage e non funziona su alcuni telefoni.",
+        "ai4": "Attenzione: Questa applicazione non è compatibile con alcuni dei dispositivi di questi produttori:",
+        "ai5": "Questa applicazione non è in alcun modo affiliata a Nintendo.",
+        "disclaimer": "Disclaimer",
+        "d1": "JoyCon Droid non dà alcuna garanzia, esplicita o implicita, riguardo l'uso dell'applicazione e le possibili conseguenze su di te o sulla tua proprietà. È responsabilità dell'utente valutare i rischi dell'utilizzo di questa applicazione o applicazioni simili.",
+        "d2": "Lo sviluppatore di JoyCon Droid non è in alcun modo o forma responsabile per l'utilizzo di questa applicazione."
     }
 }
