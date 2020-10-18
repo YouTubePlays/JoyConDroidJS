@@ -11,7 +11,7 @@
         "e9": "9. Cuando los joycons se muestren opacos,\n presione el boton abajo y salga del menu de emparejamiento.",
         "e10": "10. Ahora los controles deberian estar conectados.\n Si se desconectan, repetir los pasos anteriores."
     },
-    "legalAndDisclaimer" : {
+    "legalAndDisclaimer": {
         "appInfoTitle": "Acerca de la aplicacion.",
         "ai1": "JoyCon Droid emula los joycons izquierdos, derechos y el Pro Controller.",
         "ai2": "Por favor, revise la guia del usuario para mas informacion.",
@@ -21,5 +21,37 @@
         "disclaimer": "Disclaimer",
         "d1": "JoyCon Droid no provee ninguna garantia explicita o implicita por el uso de esta aplicacion y las posibles consecuencias sobre usted o su propiedad. Es su responsabilidad aceptar las posibles consecuencias del uso de esta aplicacion o de similares.",
         "d2": "Los desarrolladores de JoyCon Droid no se haran responsables de cualquier uso de esta aplicacion."
+    },
+    "faq": {
+        "questions": [
+            "¿Joy-Con Droid funcionara en mi telefono?",
+            "¿Pueden hacer que funcione Joy-Con Droid en mi telefono?",
+            "¿Joy-Con Droid puede dañar mi Switch?",
+            "¿Que hago si Joy-Con Droid se desconecta despues de salir de la pantalla de \"Change Grip/Order\"?",
+            "¿Que hago si Joy-Con Droid no recibe peticiones de emparejamiento?",
+            "¿Que hago si existe retraso en la entrada del control? (Input delay)?",
+            "¿Joy-Con Droid funciona con todas las versiones del firmware de Switch?",
+            "¿Como puedo pedir ayuda o sugerir alguna funcion?",
+            "¿Puedo usar mi propia UI en su aplicacion?",
+            "¿Porque nececitan mi direccion MAC?",
+            "¿Donde puedo encontrar mi direccion MAC?",
+            "¿Como cambio/remuevo la direccion MAC o la opcion de \"No volver a preguntar\"?",
+            "¿Me puedo unir a su programa de testeo?"
+        ],
+        "answers": [
+            "Esta aplicacion requiere <b>Android 9 (P) o superior</b>. Este software usa perfiles HID que algunos manufacturadores no incluyen en el <b>software del sistema</b>. Puedes revisas la compatibilidad a traves de la aplicacion <a href=\"https://play.google.com/store/apps/details?id=com.rdapps.bluetoothhidtester\">Bluetooth HID Profile Tester</a>.",
+            "Si el software del sistema no posee perfiles HID, puede ser necesario una <b>actualizacion del sistema</b> el cual solo puede ser provisto por el <b>manufacturador del dispositivo</b>. Si realmente desea utilizar este software, puede instalar <a href=\"https://lineageos.org/\">Lineage OS</a>.",
+            "<b>Joy-Con Droid</b> es utilizado por bastantes usuarios y en ningun caso, ha causado daños irreversibles. Ocasionalmente, la consola Switch puede congelarse, pero basta con reiniciar la consola para solucionar el problema. En todo caso, use la aplicacion <b>Joy-Con Droid</b> bajo su propio riesgo. <b>Joy-Con Droid</b> no viene con ninguna garantia.",
+            "La desconexion producida al salir del menu Change Order/Grip es un problema ya conocido, del cual todavia no existe una solucion definitiva, sin embargo, existe una solucion temporal. <ol> <li>Ir al menu \"Change Order/Grip\".</li> <li>Esperar a la peticion de emparejamiento pero <b>¡NO ACEPTE EL EMPAREJAMIENTO!</b></li> <li>Retroceda al menu de control.</li> <li>Ahora acepte la peticion de emparejamiento.</li> <li>La conexion deberia de establecerse.</li> </ol>",
+            "Si<b> Joy-Con Droid</b> no recibe peticiones de emparejamiento, incluso si se encuentra en el menu <b>Change Order/Grip<b>, hay algunos pasos que puede realizar. Revise si el nombre de su dispositivo posee el nombre del control deseado como Joy-Con (R), Joy-Con (L), o Pro Controller. Si el nombre del dispositivo esta correctamente colocado, cierre la aplicacion y fuerce el cierre del servicio en la barra de notificaciones. Vaya a opciones en su Switch y seleccione desconectar todos los controles. Apague la conexion bluetooth (Puede requerir reiniciar el dispositivo). Una vez cumplidos todos los pasos anteriores, abra el menu <b>\"Change Order/Grip</b>\", abra <b>Joy-Con Droid</b> y repita los pasos para conectarse.",
+            "Otro problema conocido es el retraso en la entrada (imput delay), reconectarse usualmente soluciona el problema.",
+            "<b>Joy-Con Droid</b> ha sido testeado en consolas Switch con version <b>9.0.0</b>. No se puede garantizar que <b>Joy-Con Droid</b> seguira funcionan en versiones mas recientes del firmware de Switch. Por favor, antes de actualizar su consola Switch, verifique que <b>Joy-Con Droid</b> sea compatible con la version mas reciente.",
+            "Hay varias formas de contactar al programador: <ul><li><a href=\"mailto:allplaylive@gmail.com\">Email</a></li><li><a href=\"https://youtubeplays.com/joycon-droid\">Servidor de Discord</a></li> </ul>",
+            "Puede checar el proyecto de ejemplo <a href=\"https://github.com/YouTubePlays/JoyConDroidNESStyleController\">NES Style Controller</a>. Si quiere desarrollar un UI similar o algun script que pueda ser util, puede contactar al desarrollador.",
+            "<b>Los Joy-Con y el Pro Controller</b> envian su direccion MAC a la <b>Switch</b>. Esta informacion es utilizada para reconectarse a la consola. El usuario puede proporcionar esta direccion MAC para mejorar la calidad de la conexion. Sin embargo, en <b>Android OS</b> no es posible acceder a las direcciones MAC de un dispositivo.",
+            "En la mayoria de los dispositivos, acceder a la direccion MAC solo requiere seguir los siguientes pasos:<ol><li>Desde el <b>menu principal<b>, abra la lista de aplicaciones, y seleccione <b>“Opciones/Ajustes“</b>.</li><li>Seleccione <b>“Sistema“</b>. (En algunos pasos, se puede saltar este paso)</li><li>Baje y seleccione la opcion <b>“Sobre el telefono/tablet/dispositivo“</b>.</li><li>Baje y seleccione la opcion<b>“Estado“</b>.</li><li>Baje hasta ver la opcion <b>“Direccion Bluetooth”</b></li></ol>",
+            "Si desea remover la direccion MAC ingresada o la opcion \"no volver a preguntar\": Abra el menu lateral y seleccione la opcion <b>Revertir configuracion Bluetooth</b>.",
+            "Si quiere probar la version mas reciente de <b>Joy-Con Droid</b>, puede formar parte de nuestro grupo de beta-testers. Advertimos que las versiones de pruebas se actualizan mas seguido y suelen presentar mas problemas frecuentemente. <a href=\"mailto:allplaylive@gmail.com\">Envie un correo </a> o puede unirse a nuestro servidor de <a href=\"https://youtubeplays.com/joycon-droid\">Discord</a> para mas informacion."
+        ]
     }
 }
